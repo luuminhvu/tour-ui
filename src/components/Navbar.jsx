@@ -21,7 +21,7 @@ const Navbar = () => {
           <a href="/gallery">Thư Viện</a>
         </li>
         <li>
-          <a href="/deals">Giá</a>
+          <a href="#deals">Đặt phòng</a>
         </li>
         <li>
           <a href="/contact">Liên Hệ</a>
